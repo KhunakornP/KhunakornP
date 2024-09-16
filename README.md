@@ -15,4 +15,4 @@ Interested in databases and web development.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhunakornP&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=a&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KhunakornP&icon=5&color=1)](https://visitcount.itsvg.in)
