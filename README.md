@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Aspiring developer, trying to find his passion in the sea called programing. \
-Interested in databases and web development.
+Interested in DevSecOps, AI-integrated applications, data analytics, and microservice development.
 
 # 💻 Tech Stack:
 ## Languages
